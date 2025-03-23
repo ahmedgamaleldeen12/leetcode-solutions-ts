@@ -32,7 +32,7 @@ leetcode-solutions-ts/
 🛠️ Setup & Installation
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/leetcode-solutions-ts.git
+git clone https://github.com/ahmedgamaleldeen12/leetcode-solutions-ts.git
 cd leetcode-solutions-ts
 
 2️⃣ Install Dependencies
